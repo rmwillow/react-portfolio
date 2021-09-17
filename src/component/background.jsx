@@ -16,11 +16,9 @@ export default class Background extends React.Component {
 				<div id="stars3" />
 				<div className="top-container flex">
 					<h1>
-						Hello, I&apos;m Rachel McGrath.
-						<br />
-						I&apos;m a Full Stack Web Developer.
+						“Talk is cheap. Show me the code.”
 					</h1>
-					{/* offset can be cahnged in node modules wowjs default file */}
+					
 					<button
 						className={"work-button " + this.props.bounceIn}
 						data-wow-offset="0"

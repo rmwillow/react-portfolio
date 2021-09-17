@@ -50,6 +50,7 @@ export default class Projects extends React.Component {
 									</div>
 								</div>
 							</div>
+							
 							<div
 								className={
 									"googlePotholesbg col-12 col-sm-12 col-md-4 " +
