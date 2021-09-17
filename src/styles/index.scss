@@ -152,8 +152,34 @@
     font-size: 1rem;
 }
 
+.googlePotholesbg {
+    background-image: url("../img/googlePotholes.png");
+    height: 400px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
 .workoutbg { 
     background-image: url("../img/workoutDatabase.jpg");
+    height: 400px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.techBabblebg {
+    background-image: url("../img/techBabble.png");
+    height: 400px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.employeeDBbg {
+    background-image: url("../img/employeeDatabase.png");
     height: 400px; 
     background-position: center;
     background-repeat: no-repeat;
@@ -300,7 +326,7 @@
     color: white;
 }
 
-.broadcastrbg:hover .overlay, .workoutbg:hover .overlay, .budgetTrackerbg:hover .overlay  {
+.broadcastrbg:hover .overlay, .workoutbg:hover .overlay, .googlePotholesbg:hover .overlay, .budgetTrackerbg:hover .overlay, .techBabblebg:hover .overlay, .employeeDBbg:hover .overlay   {
     opacity: 1;
 }
 
