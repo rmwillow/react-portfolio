@@ -359,7 +359,7 @@ export default class Projects extends React.Component {
 							</div>
 							<div className="modal-bottom">
 								<a
-									href="https://babble-techno.herokuapp.com/"
+									href="https://technologybabble.herokuapp.com/"
 									target="_blank">
 									<h3>View live demo</h3>
 								</a>
@@ -411,7 +411,7 @@ export default class Projects extends React.Component {
 							</div>
 							<div className="modal-bottom">
 								<a
-									href="https://rocky-dusk-76545.herokuapp.com/"
+									href="https://broadcastrss.herokuapp.com/"
 									target="_blank">
 									<h3>View live demo</h3>
 								</a>
@@ -456,7 +456,7 @@ export default class Projects extends React.Component {
 								</ul>
 							</div>
 							<div className="modal-bottom">
-								<a href="https://budget-tracker2-0.herokuapp.com/" target="_blank">
+								<a href="https://budgetrackers.herokuapp.com/" target="_blank">
 									<h3>View live demo</h3>
 								</a>
 								<p
